@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path
+        name="external"
+        path="Android/data/com.demo.downloadapk/" />
+    <external-files-path
+        name="Download"
+        path="." />
+    <external-path
+        name="DCIM"
+        path="." />
+</paths>
